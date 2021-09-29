@@ -45,7 +45,7 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
+      "oAP" : "\/dev\/index.kit",
       "oF" : 2
     },
     "\/dev\/content\/info.kit" : {
@@ -53,48 +53,32 @@
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/content\/info.html",
-      "oF" : 0
+      "oAP" : "\/dev\/index.kit",
+      "oF" : 2
     },
     "\/dev\/global\/head.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/global\/head.html",
-      "oF" : 0
+      "oAP" : "\/dev\/index.kit",
+      "oF" : 2
     },
     "\/dev\/global\/header.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/index.html",
+      "oAP" : "\/dev\/index.kit",
       "oF" : 2
-    },
-    "\/dev\/global\/scripts.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/global\/scripts.html",
-      "oF" : 0
     },
     "\/dev\/global\/scripts.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
-      "oAP" : "\/dev\/global\/scripts.html",
-      "oF" : 0
-    },
-    "\/dev\/index.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/dev\/index.html",
-      "oF" : 0
+      "oAP" : "\/dev\/index.kit",
+      "oF" : 2
     },
     "\/dev\/index.kit" : {
       "cB" : 0,
